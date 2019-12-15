@@ -1,0 +1,3 @@
+This is a two-week Java programming assignment of the course Operating Systems, which implements a simulation of tunnels and vehicles using Java Threads,  synchronized methods, and condition variables. Detailed Introduction to the assignment can be seen in "PA2.pdf". I got full credits for this assignment.
+
+The assignment was written in the environment of Eclipse IDE. So it is highly recommended to import the folder pa2 into Eclipse to run the program. You can also find the source codes in the folders ".\pa2\src\main\java\cs131\pa2\CarsTunnels" (mostly written by me), ".\pa2\src\main\java\cs131\pa2\Abstract" (partly written by me in Vehicle.java and Tunnel.java), and ".\pa2\src\test\java\cs131\pa2" (provided tests).    
